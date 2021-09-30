@@ -11,3 +11,5 @@ Time Complexity: `O(n)`- since in worst case we're checking each element exactly
 ## References
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Linear_search)
+- [Tutorialspot](https://www.tutorialspoint.com/data_structures_algorithms/linear_search_algorithm.htm)
+- [Youtube](https://www.youtube.com/watch?v=4GPdGsB3OSc)
