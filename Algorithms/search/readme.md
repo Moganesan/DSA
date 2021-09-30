@@ -10,4 +10,4 @@ Time Complexity: `O(n)`- since in worst case we're checking each element exactly
 
 ## References
 
--[Wikipedia](https://en.wikipedia.org/wiki/Linear_search)
+- [Wikipedia](https://en.wikipedia.org/wiki/Linear_search)
