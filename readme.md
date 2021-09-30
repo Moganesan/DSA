@@ -18,12 +18,12 @@
 
 ## **Data Structures**
 
-> Sigle Linked Lists
-> Double Linked Lists
-> Stacks + Queues
-> Binary Search Trees
-> Treee Traversal
-> Binary Heaps
-> Hash Tables
-> Graphs
-> Graph Traversal
+- Sigle Linked Lists
+- Double Linked Lists
+- Stacks + Queues
+- Binary Search Trees
+- Treee Traversal
+- Binary Heaps
+- Hash Tables
+- Graphs
+- Graph Traversal
