@@ -81,3 +81,18 @@ if (num > 0) {
 ```
 The factorial of 3 is 6
 ```
+
+When you call function `factorial()` with a positive integer, it will recursively call itself by decreasing the number.
+
+This process continues until the number becomes 1. Then when the number reaches 0, 1 is returned.
+
+![example](https://cdn.programiz.com/sites/tutorial2program/files/javascript-factorial-working.png)
+
+This recursive call can be explained in the following steps:
+
+```
+factorial(3) returns 3 * factorial(2)
+factorial(2) returns 3 * 2 * factorial(1)
+factorial(1) returns 3 * 2 * 1 * factorial(0)
+factorial(0) returns 3 * 2 * 1 * 1
+```
