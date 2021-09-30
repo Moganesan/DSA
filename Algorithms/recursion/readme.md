@@ -6,8 +6,4 @@ Recursion is a process of calling itself. A function that calls itself is called
 
 ![example](https://raw.githubusercontent.com/Moganesan/DSA/master/Algorithms/recursion/examples/basicrecursivefunc.png)
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+Here, the `recurse()` function is a recursive function. It is calling itself inside the function.
