@@ -87,7 +87,7 @@ The factorial of 3 is 6
 
 ![example](https://cdn.programiz.com/sites/tutorial2program/files/javascript-factorial-working.png)
 
-This recursive call can be explained in the following steps:
+> This recursive call can be explained in the following steps:
 
 ```
 factorial(3) returns 3 * factorial(2)
