@@ -1,5 +1,7 @@
 # Data Structures & Algorithms in JavaScript
 
+![image](https://unsplash.com/photos/cWUPyE8qggw/download?force=true)
+
 ## **Algorithms**
 
 1. Big O Notation
