@@ -1,5 +1,5 @@
 # Data Structures & Algorithms in JavaScript
 
-## Topics
+## **Topics**
 
 > Introduction
