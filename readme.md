@@ -2,19 +2,18 @@
 
 ## **Algorithms**
 
-1. Introduction
-2. Big O Notation
-3. Problem Solving Approach
-4. Problem Solving Pattern
-5. Recursion
-6. Searching Algorithms
-7. Bubble Sort
-8. Section Sort
-9. Insertion Sort
-10. Comparing Bubble, Selection, and Insertion Sorts
-11. Merge Sort
-12. Quick Sort
-13. Redix Sort
+1. Big O Notation
+2. Problem Solving Approach
+3. Problem Solving Pattern
+4. Recursion
+5. Searching Algorithms
+6. Bubble Sort
+7. Section Sort
+8. Insertion Sort
+9. Comparing Bubble, Selection, and Insertion Sorts
+10. Merge Sort
+11. Quick Sort
+12. Redix Sort
 
 ## **Data Structures**
 
