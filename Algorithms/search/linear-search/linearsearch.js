@@ -47,4 +47,4 @@ function getMyCity(pattern) {
   });
 }
 
-getMyCity("Virudhunagar");
+getMyCity("Erode");

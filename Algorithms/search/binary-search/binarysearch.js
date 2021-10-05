@@ -14,7 +14,6 @@ function binarySearch(array, number) {
       end = mid - 1;
     }
   }
-
   return -1;
 }
 

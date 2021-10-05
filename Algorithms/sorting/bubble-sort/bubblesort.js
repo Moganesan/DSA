@@ -25,7 +25,6 @@ function bubbleSort(array) {
     }
     if (noSwap) break;
   }
-
   console.log(array);
 }
 
